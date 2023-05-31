@@ -1,0 +1,39 @@
+.first{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.fourth{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 40px;
+}
+.test{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+.fifth{
+    display: flex;
+    justify-content: center;
+}
+.btn1{
+    display: none;
+    margin: 40px;
+}
+.btn2{
+    margin: 40px;
+    display:block;
+}
